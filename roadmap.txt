@@ -1,0 +1,80 @@
+YOUTUBE LINK: 
+https://www.youtube.com/watch?v=Os-FP2Fnudc
+
+BATCHES : 132, 134, 135
+
+Frontend (2.5 - 3m)
+    html, 
+        - hypertext markup language
+        - elements / tags : button, form, table, media tags
+    css / bootstrap / tailwindcss, 
+        cascading style sheet
+        bootstrap
+        tailwindcss
+    js,
+        - programming language
+        - Dom -> web interactivity
+
+    ReactJS
+        - JS library by facebook
+        - code reuseability
+        - spa (Single page application)
+
+Backend (2.5 - 3m)
+    - php-laravel => mysql
+        php
+            - programming language / serverside language
+            - application logic
+        laravel - Framework
+            - mvc structure (model view controller)
+    - mernstack => mongodb
+        m :: mongodb
+            -> for db use only
+        e :: expressjs
+            - server create and url building
+        r :: reactjs
+            - ui screens
+        n :: nodejs
+            - application logic
+Second term (next 6m)
+    - frontend => reactjs
+    - python core, django, fastapi => mysql
+    - c#, asp.net => mysql
+
+-------------------------------
+DOMAIN + HOSTING
+
+    - DOMAIN
+        - namecheap.com
+        - morganlaw.com
+        - namelix.com
+    - HOSTING
+        - hostinger.com
+        - bluehost.com
+
+JOB + BUSINESS + FREELANCING
+
+JOB 
+    - skills
+    - cv
+    - portfolio (vercel)
+    - linkdedin profile
+    - github profile
+
+BUSINESS  
+    - legal (govt.)
+
+FREELANCING
+    - fiverr / upwork / peopleperhour
+    - themeforest (web template) / shopify (web template) / udemy (courses)
+
+
+---------------------------------------------------
+TOOLS & SOFTWARES
+
+Browser (Google chrome)
+Editor (Vs code, AI antigravity, cursor, llms (chatgpt, angtigravity, claude))
+Xampp
+mongodb compass
+git-github / github desktop
+justcolorpicker
